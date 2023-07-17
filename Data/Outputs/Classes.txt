@@ -1,0 +1,7 @@
+0 'Forest',
+1 'RoadsAndPavements',
+2 'SavannahGrassland',
+3 'Building',
+4 'Water', 
+5 'AgriculturalLand', 
+6 'BareLand'
